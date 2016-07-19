@@ -2,9 +2,6 @@
   <template name="ngCtrlEs6" value="'use strict';&#10;&#10;export function $ControllerName$($scope, $log) {&#10;  'ngInject';&#10;&#10;  activate();&#10;&#10;  function activate() {&#10;    $log.debug('$ControllerName$ created');&#10;&#10;    $scope.$on('$destroy', () =&gt; {&#10;&#10;&#10;      $log.debug('$ControllerName$ destroyed');&#10;    });&#10;  }&#10;&#10;}" description="ES6 Angular Controller" toReformat="false" toShortenFQNames="true">
     <variable name="ControllerName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JSX_HTML" value="false" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
