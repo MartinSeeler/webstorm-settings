@@ -1,11 +1,10 @@
 <scheme name="Martins Solarized" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="28" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Range Mono" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_COLOR" value="cb4b16" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
@@ -47,6 +46,16 @@
       <value>
         <option name="FOREGROUND" value="839496" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -107,6 +116,21 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="839496" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -192,11 +216,7 @@
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.PARAMETER">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="268bd2" />
