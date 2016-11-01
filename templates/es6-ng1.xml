@@ -1,5 +1,5 @@
 <templateSet group="es6-ng1">
-  <template name="ngCtrlEs6" value="'use strict';&#10;&#10;export function $ControllerName$($scope, $log) {&#10;  'ngInject';&#10;&#10;  const vm = this;&#10;&#10;  const logKey = '$ControllerName$.controller';&#10;  const logger = $log.getInstance(logKey);&#10;  $log.logLevels[logKey] = $log.LEVEL.WARN;&#10;&#10;  activate();&#10;&#10;  function activate() {&#10;    log.info('Created');&#10;&#10;    $scope.$on('$destroy', () =&gt; {&#10;      log.info('Destroyed');&#10;    });&#10;  }&#10;&#10;}" description="ES6 Angular Controller" toReformat="false" toShortenFQNames="true">
+  <template name="ngCtrlEs6" value="'use strict';&#10;&#10;export function $ControllerName$($scope, $log) {&#10;  'ngInject';&#10;&#10;  const vm = this;&#10;&#10;  const logKey = '$ControllerName$.controller';&#10;  const logger = $log.getInstance(logKey);&#10;  $log.logLevels[logKey] = $log.LEVEL.WARN;&#10;&#10;  activate();&#10;&#10;  function activate() {&#10;    logger.info('Created');&#10;&#10;    $scope.$on('$destroy', () =&gt; {&#10;      logger.info('Destroyed');&#10;    });&#10;  }&#10;&#10;}" description="ES6 Angular Controller" toReformat="false" toShortenFQNames="true">
     <variable name="ControllerName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
