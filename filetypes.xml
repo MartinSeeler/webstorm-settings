@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="xml2json" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
