@@ -6,6 +6,7 @@
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
