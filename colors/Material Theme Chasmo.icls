@@ -3,7 +3,7 @@
     <property name="created">2017-02-14T23:37:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-14T23:42:43</property>
+    <property name="modified">2017-02-15T09:22:05</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -324,13 +324,16 @@
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="cad3de" />
+        <option name="FOREGROUND" value="798194" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="f06292" />
       </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -399,7 +402,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="4fc3f7" />
+        <option name="FOREGROUND" value="8c9eff" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -409,7 +412,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="92bdec" />
+        <option name="FOREGROUND" value="c5e1a5" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -436,6 +439,9 @@
       <value>
         <option name="FOREGROUND" value="8c9eff" />
       </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -766,14 +772,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="6dc2b8" />
-      </value>
-    </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="JS.PARENTHS">
