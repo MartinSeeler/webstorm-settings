@@ -4,9 +4,9 @@
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FONT_FACE" value=".SF NS Text" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
+    <option name="presentationMode" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
