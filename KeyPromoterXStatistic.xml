@@ -105,6 +105,22 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'can filter courses by name'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'can filter courses by name'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'can filter courses without input'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'can filter courses without input'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'can find latest card learn result'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
