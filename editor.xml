@@ -1,9 +1,0 @@
-<application>
-  <component name="EditorSettings">
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingLevelCount" value="4" />
-  </component>
-</application>
