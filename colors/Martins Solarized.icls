@@ -1,10 +1,11 @@
 <scheme name="Martins Solarized" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="CARET_COLOR" value="cb4b16" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
@@ -106,6 +107,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -118,6 +120,9 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value />
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
