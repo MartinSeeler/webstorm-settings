@@ -5,7 +5,6 @@
   <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="CARET_COLOR" value="cb4b16" />
     <option name="CARET_ROW_COLOR" value="eee8d5" />
@@ -228,7 +227,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="fdf6e3" />
-        <option name="BACKGROUND" value="9c9a3f" />
+        <option name="BACKGROUND" value="268bd2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
