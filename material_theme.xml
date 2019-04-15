@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="51aff074:16a20861920:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
